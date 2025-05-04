@@ -1,7 +1,6 @@
 tommyst0
 ---
-Criador do Los Hermanos RPG e Planet Start RPG</br>
-Projeto [sampst0](https://github.com/sampst0-project)
+Programador, Designer, Editor de Video e amante de Engenharia Reversa.
 
 ### Skills
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
