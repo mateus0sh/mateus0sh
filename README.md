@@ -48,15 +48,3 @@
   </a>
 </p>
 
----
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C" alt="C">
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua" alt="Lua">
-  <img src="https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust" alt="Rust">
-</p>
-
-
